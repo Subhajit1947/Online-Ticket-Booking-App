@@ -1,0 +1,313 @@
+[
+    {
+      "hallId": "1",
+      "hallName": "Kolkata Cineplex",
+      "hallImage": "/images/kolkata_cineplex.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 960679,
+          "title": "Mission: Impossible – Dead Reckoning Part One",
+          "showtime": "10:00 AM",
+          "posterPath": "/pT5zvEG0VfY2L3sBGVRL6v3cP5Y.jpg"
+        },
+        {
+          "movieId": 955214,
+          "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+          "showtime": "01:00 PM",
+          "posterPath": "/5HgsQdCVqGpIjlwaEBGBwhhQ4H2.jpg"
+        },
+        {
+          "movieId": 438631,
+          "title": "Oppenheimer",
+          "showtime": "04:00 PM",
+          "posterPath": "/tS08yRJHTDIkDtF3ofmV89GBPU7.jpg"
+        },
+        {
+          "movieId": 520015,
+          "title": "The Equalizer 3",
+          "showtime": "07:00 PM",
+          "posterPath": "/45IGJj2dbGnNIT4r2YFkdE8cZjI.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "2",
+      "hallName": "Metro Cinema",
+      "hallImage": "/images/metro_cinema.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 1022789,
+          "title": "Inside Out 2",
+          "showtime": "11:00 AM",
+          "posterPath": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        },
+        {
+          "movieId": 519182,
+          "title": "Despicable Me 4",
+          "showtime": "02:00 PM",
+          "posterPath": "/3w84hCFJATpiCO5g8hpdWVPBbmq.jpg"
+        },
+        {
+          "movieId": 748783,
+          "title": "The Garfield Movie",
+          "showtime": "05:00 PM",
+          "posterPath": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
+        },
+        {
+          "movieId": 533535,
+          "title": "Deadpool & Wolverine",
+          "showtime": "08:00 PM",
+          "posterPath": "/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "3",
+      "hallName": "PVR Cinemas",
+      "hallImage": "/images/pvr_cinemas.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 786892,
+          "title": "Furiosa: A Mad Max Saga",
+          "showtime": "12:00 PM",
+          "posterPath": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+        },
+        {
+          "movieId": 653346,
+          "title": "Kingdom of the Planet of the Apes",
+          "showtime": "03:00 PM",
+          "posterPath": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg"
+        },
+        {
+          "movieId": 974262,
+          "title": "Descendants: The Rise of Red",
+          "showtime": "06:00 PM",
+          "posterPath": "/dwxWNJ9oDLqNPbA0884h5J7mfqy.jpg"
+        },
+        {
+          "movieId": 1114738,
+          "title": "Boneyard",
+          "showtime": "09:00 PM",
+          "posterPath": "/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "4",
+      "hallName": "Inox Multiplex",
+      "hallImage": "/images/inox_multiplex.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 823464,
+          "title": "Godzilla x Kong: The New Empire",
+          "showtime": "11:30 AM",
+          "posterPath": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg"
+        },
+        {
+          "movieId": 943344,
+          "title": "Underground Monster",
+          "showtime": "02:30 PM",
+          "posterPath": "/lWVwWRLqpS1OaNg7KT0ZecSW0PK.jpg"
+        },
+        {
+          "movieId": 1191610,
+          "title": "Goyo",
+          "showtime": "05:30 PM",
+          "posterPath": "/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg"
+        },
+        {
+          "movieId": 533535,
+          "title": "Deadpool & Wolverine",
+          "showtime": "08:30 PM",
+          "posterPath": "/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "5",
+      "hallName": "Cinepolis",
+      "hallImage": "/images/cinepolis.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 560016,
+          "title": "Monkey Man",
+          "showtime": "12:00 PM",
+          "posterPath": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg"
+        },
+        {
+          "movieId": 646683,
+          "title": "The Exorcism",
+          "showtime": "03:00 PM",
+          "posterPath": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg"
+        },
+        {
+          "movieId": 929590,
+          "title": "Civil War",
+          "showtime": "06:00 PM",
+          "posterPath": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg"
+        },
+        {
+          "movieId": 1001311,
+          "title": "Under Paris",
+          "showtime": "09:00 PM",
+          "posterPath": "/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "6",
+      "hallName": "Cineworld",
+      "hallImage": "/images/cineworld.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 1159518,
+          "title": "Black Noise",
+          "showtime": "11:00 AM",
+          "posterPath": "/snKpXexv5dtWqEKEmXrJtp8QGQC.jpg"
+        },
+        {
+          "movieId": 1114738,
+          "title": "Boneyard",
+          "showtime": "02:00 PM",
+          "posterPath": "/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg"
+        },
+        {
+          "movieId": 1022789,
+          "title": "Inside Out 2",
+          "showtime": "05:00 PM",
+          "posterPath": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        },
+        {
+          "movieId": 955214,
+          "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+          "showtime": "08:00 PM",
+          "posterPath": "/5HgsQdCVqGpIjlwaEBGBwhhQ4H2.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "7",
+      "hallName": "Fame Cinemas",
+      "hallImage": "/images/fame_cinemas.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 1022789,
+          "title": "Inside Out 2",
+          "showtime": "12:30 PM",
+          "posterPath": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        },
+        {
+          "movieId": 748783,
+          "title": "The Garfield Movie",
+          "showtime": "03:30 PM",
+          "posterPath": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg"
+        },
+        {
+          "movieId": 786892,
+          "title": "Furiosa: A Mad Max Saga",
+          "showtime": "06:30 PM",
+          "posterPath": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+        },
+        {
+          "movieId": 646683,
+          "title": "The Exorcism",
+          "showtime": "09:30 PM",
+          "posterPath": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "8",
+      "hallName": "Star Cineplex",
+      "hallImage": "/images/star_cineplex.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 655304,
+          "title": "Five Nights at Freddy's",
+          "showtime": "10:30 AM",
+          "posterPath": "/qDhZ3VLPmOtNj3tCEYr6Wz77RhG.jpg"
+        },
+        {
+          "movieId": 638833,
+          "title": "The Marvels",
+          "showtime": "01:30 PM",
+          "posterPath": "/6gJMj6ra8DSxR8zsmr9OStZw0xa.jpg"
+        },
+        {
+          "movieId": 1001311,
+          "title": "Under Paris",
+          "showtime": "04:30 PM",
+          "posterPath": "/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg"
+        },
+        {
+          "movieId": 1114738,
+          "title": "Boneyard",
+          "showtime": "07:30 PM",
+          "posterPath": "/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "9",
+      "hallName": "Elgin Cinemas",
+      "hallImage": "/images/elgin_cinemas.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 974262,
+          "title": "Descendants: The Rise of Red",
+          "showtime": "12:00 PM",
+          "posterPath": "/dwxWNJ9oDLqNPbA0884h5J7mfqy.jpg"
+        },
+        {
+          "movieId": 786892,
+          "title": "Furiosa: A Mad Max Saga",
+          "showtime": "03:00 PM",
+          "posterPath": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg"
+        },
+        {
+          "movieId": 955214,
+          "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+          "showtime": "06:00 PM",
+          "posterPath": "/5HgsQdCVqGpIjlwaEBGBwhhQ4H2.jpg"
+        },
+        {
+          "movieId": 120984,
+          "title": "The Marvels",
+          "showtime": "09:00 PM",
+          "posterPath": "/6gJMj6ra8DSxR8zsmr9OStZw0xa.jpg"
+        }
+      ]
+    },
+    {
+      "hallId": "10",
+      "hallName": "Sapphire Cinema",
+      "hallImage": "/images/sapphire_cinema.jpg",
+      "ongoing_movies": [
+        {
+          "movieId": 960679,
+          "title": "Mission: Impossible – Dead Reckoning Part One",
+          "showtime": "11:00 AM",
+          "posterPath": "/pT5zvEG0VfY2L3sBGVRL6v3cP5Y.jpg"
+        },
+        {
+          "movieId": 1022789,
+          "title": "Inside Out 2",
+          "showtime": "02:00 PM",
+          "posterPath": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+        },
+        {
+          "movieId": 428907,
+          "title": "The Flash",
+          "showtime": "05:00 PM",
+          "posterPath": "/j4tQGZHHlL0D8fYPQYc6WV6cfFP.jpg"
+        },
+        {
+          "movieId": 120984,
+          "title": "The Marvels",
+          "showtime": "08:00 PM",
+          "posterPath": "/6gJMj6ra8DSxR8zsmr9OStZw0xa.jpg"
+        }
+      ]
+    }
+  ]
+  

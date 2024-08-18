@@ -1,0 +1,106 @@
+.coupon-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 300px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .coupon-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .coupon-code {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .coupon-status {
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 0.8em;
+  }
+  
+  .coupon-status.active {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .coupon-status.inactive {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .coupon-details {
+    font-size: 0.9em;
+  }
+  
+  .coupon-description {
+    margin-bottom: 8px;
+  }
+  
+  .coupon-type,
+  .coupon-discount,
+  .coupon-max-discount,
+  .coupon-dates {
+    margin-bottom: 4px;
+  }
+  
+  .coupon-type strong,
+  .coupon-discount strong,
+  .coupon-max-discount strong,
+  .coupon-dates strong {
+    color: #333;
+  }
+
+  
+  
+
+
+.inputBox{
+    padding: 7px 20px;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.Offer_containter{
+    width: 100%;
+    margin: auto;
+    height: auto;
+    margin-bottom: 20%;
+    /* border: 2px solid blue; */
+}
+.CartMainDiv{
+    width: 90%;
+    height: 120px;
+    margin:30px auto;
+    text-align: center;
+    font-family: sans-serif;
+    /* border: 1px solid black; */
+    
+}
+.CartMainDiv>h4{
+    font-weight: 400;
+    letter-spacing: 5px;
+    font-size: 18px;
+    color: #666;
+    line-height: 28px
+    
+}
+.BankCartMainDiv{
+    width: 100%;
+ 
+    padding-top: 20px;    
+    background-color: #f2f2f2;
+}
+.BanksCart{
+    gap: 2%;
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
