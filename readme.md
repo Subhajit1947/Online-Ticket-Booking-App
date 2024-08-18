@@ -59,4 +59,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ticket-booking-app.git
+   git clone https://github.com/Subhajit1947/Online-Ticket-Booking-App.git
